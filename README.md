@@ -81,8 +81,7 @@
           <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
         </a> 
       </p>
-      
-    <!-- Add the rest of the icons with the same style as needed -->
+    
   </p>
   <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=areeb786123&show_icons=true&locale=en&layout=compact" alt="areeb786123" /></p> -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=areeb786123&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="areeb786123" /></p>
