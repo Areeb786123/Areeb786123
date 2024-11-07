@@ -1,6 +1,4 @@
 ![image](https://github.com/user-attachments/assets/33a2a4bd-f9d0-46ec-8272-5fbea7aadb9b)
-
-
 <h1 align="center">Hi 👋, I'm Areeb Ahmad</h1>
 <h3 align="center">A passionate SDE from India</h3>
 
@@ -32,7 +30,7 @@
 <p align="left"> 
     <p align="left"> 
         <a href="https://developer.android.com" target="_blank" rel="noreferrer" style="margin-right: 20px;"> 
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
+          <img src="https://iconape.com/wp-content/png_logo_vector/android-robot-head.png" alt="android" width="40" height="40"/> 
         </a> 
         <a href="https://aws.amazon.com" target="_blank" rel="noreferrer" style="margin-right: 20px;"> 
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
