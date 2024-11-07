@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/33a2a4bd-f9d0-46ec-8272-5fbea7aadb9b)
+
+
 <h1 align="center">Hi 👋, I'm Areeb Ahmad</h1>
 <h3 align="center">A passionate SDE from India</h3>
 
