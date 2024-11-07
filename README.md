@@ -18,8 +18,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/dev.areebahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.areebahmad" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/areeb ahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="areeb ahmad" height="30" width="40" /></a>
+<!-- <a href="https://dev.to/dev.areebahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.areebahmad" height="30" width="40" /></a> -->
+<a href="https://www.linkedin.com/in/areeb-ahmad-b01b1a193/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="areeb ahmad" height="30" width="40" /></a>
+
 <a href="https://medium.com/@areebrockzz786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@areebrockzz786" height="30" width="40" /></a>
 </p>
 
