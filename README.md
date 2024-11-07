@@ -4,12 +4,6 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=areeb786123&label=Profile%20views&color=0e75b6&style=flat" alt="areeb786123" /> </p> -->
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=areeb786123" alt="areeb786123" /></a> </p> -->
-<p align="left"> 
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=areeb786123&margin-w=15&layout=compact&theme=tokyonight" alt="areeb786123" />
-    </a> 
-  </p>
 
 - 🔭 I’m currently working in **AngelOne**
 
@@ -40,3 +34,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=areeb786123&show_icons=true&locale=en" alt="areeb786123" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=areeb786123&" alt="areeb786123" /></p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=areeb786123" alt="areeb786123" /></a> </p> -->
+<p align="left"> 
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=areeb786123&margin-w=15&layout=compact&theme=tokyonight" alt="areeb786123" />
+    </a> 
+  </p>
